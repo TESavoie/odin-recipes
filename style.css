@@ -1,0 +1,29 @@
+* {
+    color: #353535
+    font-family: "Georgia", "Arial", serif;
+}
+
+h1,
+h3 {
+    text-align: center;
+    color: black;
+}
+
+a {
+    color: rgb(226, 120, 186);
+    background-color: rgb(233, 232, 232);
+}
+
+.servings {
+    text-align: center;
+    color: rgb(102, 101, 101)
+}
+
+.recipes {
+    font-size: 30px;
+    font-weight: 400;
+}
+
+#title {
+    font-size: 40px;
+}
